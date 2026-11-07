@@ -1,0 +1,6 @@
+{
+  "name": "TriếtHọc Pro - Nền Tảng Ôn Thi Triết Học Mác - Lênin",
+  "description": "Nền tảng ôn thi trắc nghiệm Triết học Mác - Lênin chuyên nghiệp với ngân hàng 335 câu hỏi chuẩn, chế độ thi thử tính giờ, luyện tập theo chủ đề, flashcard ghi nhớ và sổ tay câu sai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
